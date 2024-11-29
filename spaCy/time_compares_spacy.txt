@@ -1,0 +1,1 @@
+spaCy Runtime: 9.4203 seconds
