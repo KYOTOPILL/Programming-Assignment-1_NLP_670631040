@@ -1,0 +1,4 @@
+NLTK Runtime: 0.1626 seconds
+spaCy Runtime: 9.4203 seconds
+TextBlob Runtime: 0.3530 seconds
+
