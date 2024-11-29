@@ -1,0 +1,10 @@
+she: 536
+said: 462
+i: 401
+alice: 385
+you: 362
+her: 247
+at: 209
+all: 180
+had: 178
+but: 166
